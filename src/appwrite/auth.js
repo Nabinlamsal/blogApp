@@ -54,4 +54,4 @@ export class AuthService{
 
 const authService =new AuthService() //object, use constructor
 
-export default AuthService
+export default authService
